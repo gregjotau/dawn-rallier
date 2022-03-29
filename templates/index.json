@@ -1,192 +1,16 @@
 {
   "sections": {
-    "1647875727c189611d": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2for1-vortex-tights-banner-desktop1.jpg",
-        "image_m": "shopify:\/\/shop_images\/2for1-vortex-tights-banner-mobil.jpg",
-        "image_url": "shopify:\/\/collections\/must-haves",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1629993086223521d8": {
-      "type": "famme-spaced-button-links",
-      "settings": {
-        "menu": "header2-produktkategorier",
-        "pw": false,
-        "bg": "#4e4e4e",
-        "color": "#ffffff",
-        "width": 150,
-        "padx": 10,
-        "pady": 7,
-        "radius": 100
-      }
-    },
-    "1638543882705deea9": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/lagertomming-sko-banner-desktop.jpg",
-        "image_m": "shopify:\/\/shop_images\/lagertomming-sko-banner-mobile.jpg",
-        "image_url": "shopify:\/\/collections\/must-haves",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "16311853465cfb015e": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/loungewear-salg-banner-desktop.jpg",
-        "image_m": "shopify:\/\/shop_images\/loungewear-salg-banner-mobil.jpg",
-        "image_url": "shopify:\/\/collections\/loungewear",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "16467164645aa70328": {
-      "type": "multicolumn-usp",
-      "disabled": true,
-      "blocks": {
-        "1646716464677e12fc-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blogpost-tips-til-bedre-kondis_1.jpg",
-            "title": "Gratis frakt*",
-            "text": "<p>1-3 dager med ekspressfrakt<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1646716464677e12fc-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blogpost-tips-til-bedre-kondis_1.jpg",
-            "title": "Vipps & Klarna",
-            "text": "<p>Kjøp nå og betal senere med Klarna<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1646716464677e12fc-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blogpost-tips-til-bedre-kondis_1.jpg",
-            "title": "Superenkel retur",
-            "text": "<p>Med 30 dagers pengene tilbake<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1646716464677e12fc-0",
-        "1646716464677e12fc-1",
-        "1646716464677e12fc-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_max": 108,
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "sizet": 12,
-        "size": 11,
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "inverse",
-        "columns_mobile": "3",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 0
-      }
-    },
-    "16463038447a5cbd60": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Lagersalg ut Mars - Vi flytter lager til nytt og større lager",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "must-haves",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "164138293938171117": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/new-products-banner.jpg",
-        "image_m": "shopify:\/\/shop_images\/new-products-banner-mobil.jpg",
-        "image_url": "shopify:\/\/collections\/new-releases",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "164612698482e306bb": {
+    "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "1646126984b913e87a-0": {
+        "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
+            "heading": "Se Rallier Tennis Collection",
+            "heading_size": "large"
           }
         },
-        "1646126984b913e87a-1": {
+        "text": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -194,175 +18,11 @@
             "text_style": "body"
           }
         },
-        "1646126984b913e87a-2": {
+        "button": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1646126984b913e87a-0",
-        "1646126984b913e87a-1",
-        "1646126984b913e87a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/acid-scrunch-tights-i-farger_e7f7b2f6-fc4a-4364-b1ad-61b1b4936c3d.jpg",
-        "image_m": "shopify:\/\/shop_images\/acid-scrunch-tights-i-farger_1.jpg",
-        "image_url": "shopify:\/\/products\/acid-scrunch-leggings",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1631094390263d97d1": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/peachy-scrunch-banner-desktop.jpg",
-        "image_m": "shopify:\/\/shop_images\/peachy-scrunch-banner-mobil.jpg",
-        "image_url": "shopify:\/\/collections\/scrunch",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1626547460af5b6361": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Bestselgere",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "bestsellers",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "163117812908a522c8": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/outdoor-banner-smal_1.jpg",
-        "image_m": "shopify:\/\/shop_images\/outdoor-banner-smal-mobil.jpg",
-        "image_url": "shopify:\/\/collections\/turklaer",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "16252134879571dabc": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Jeans_banner_stor_1.jpg",
-        "image_m": "shopify:\/\/shop_images\/jeans-banner-mobil_3.jpg",
-        "image_url": "shopify:\/\/collections\/jeans",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1629157352b193f90f": {
-      "type": "newsletter",
-      "blocks": {
-        "1629157352b193f90f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Neste lansering?",
-            "heading_size": "h1"
-          }
-        },
-        "1629157352b193f90f-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Bli den første som får vite om nyheter og tilbud<\/p>"
-          }
-        },
-        "1629157352b193f90f-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1629157352b193f90f-0",
-        "1629157352b193f90f-1",
-        "1629157352b193f90f-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "162567415706bdadcd": {
-      "type": "image-banner",
-      "blocks": {
-        "162567415706bdadcd-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "BLI MED I NORGES STØRSTE PRODUKTUTVIKLINGSGRUPPE MED FLERE TITUSENER MEDLEMMER I NORGE.",
-            "text_style": "body"
-          }
-        },
-        "162567415706bdadcd-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "FÅ HJELP OG GI FEEDBACK",
-            "button_link_1": "https:\/\/www.facebook.com\/groups\/fammeproduktutvikling",
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -371,40 +31,222 @@
         }
       },
       "block_order": [
-        "162567415706bdadcd-1",
-        "162567415706bdadcd-2"
+        "heading",
+        "text",
+        "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner-hovedside.jpg",
-        "image_url": "https:\/\/www.facebook.com\/groups\/fammeproduktutvikling",
-        "image_overlay_opacity": 0,
-        "image2_url": "",
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/000042-1320.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "La voie du rallier",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>New Amanda Collection 1.0 dropping soon!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populære produkter",
+        "collection": "tennis",
+        "products_to_show": 8,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "tennis"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "crew-neck",
+            "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "tennis"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Skjermbilde_2022-02-04_kl._10.54.24.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=bX6frsuoRW8",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1643972344e69a08a9": {
+      "type": "image-with-text",
+      "blocks": {
+        "16439723446a3c365e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Padel Collection",
+            "heading_size": "h1"
+          }
+        },
+        "16439723446a3c365e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16439723446a3c365e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16439723446a3c365e-0",
+        "16439723446a3c365e-1",
+        "16439723446a3c365e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/e94b2ce2f503eab7f9cf313ca0b9f046.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
-    "1647875727c189611d",
-    "1629993086223521d8",
-    "1638543882705deea9",
-    "16311853465cfb015e",
-    "16467164645aa70328",
-    "16463038447a5cbd60",
-    "164138293938171117",
-    "164612698482e306bb",
-    "1631094390263d97d1",
-    "1626547460af5b6361",
-    "163117812908a522c8",
-    "16252134879571dabc",
-    "1629157352b193f90f",
-    "162567415706bdadcd"
+    "image_banner",
+    "rich_text",
+    "featured_collection",
+    "collage",
+    "video",
+    "multicolumn",
+    "1643972344e69a08a9"
   ]
 }
