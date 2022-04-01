@@ -87,7 +87,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "tennis",
+        "collection": "shorts",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -111,7 +111,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "amanda-collection"
+            "collection": "the-amanda-collection"
           }
         },
         "product": {
@@ -124,7 +124,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "amanda-collection"
+            "collection": "tops"
           }
         }
       },
