@@ -16,10 +16,46 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1654844385b20466da": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654844385962e3085-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Om oss",
+            "heading_size": "h1"
+          }
+        },
+        "1654844385962e3085-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vi er et nyoppstartet tennis brand, med komfertable og funksjonible tennisklær til dame. Vår ambisjon er å bli størst i Norge innen B2C salg og B2B. For oss er det viktig at en føler seg vel i klærne og bidrar til at damer og jenter vil spille mer tennis og blir bitt av basillen.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1654844385962e3085-0",
+        "1654844385962e3085-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "1654844385b20466da"
   ]
 }
