@@ -64,12 +64,20 @@
               "heading": "Se Rallier",
               "subtext": "<p>Alt av treningstøy til din neste padel eller tennismatch!<\/p>"
             }
+          },
+          "113ee710-7636-4eb3-85c5-d080ec954d10": {
+            "type": "text",
+            "settings": {
+              "heading": "Firma-info",
+              "subtext": "<p>Respiro AS<\/p><p>almeveien 28<\/p><p>0855 Oslo<\/p><p>gt@famme.no<\/p><p>+47 47958629<\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "113ee710-7636-4eb3-85c5-d080ec954d10"
         ],
         "settings": {
           "color_scheme": "accent-2",
